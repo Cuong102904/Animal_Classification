@@ -28,3 +28,5 @@
 
 # Pre-trained model:
 - If you do not want to re-train, you can download our [model](https://husteduvn-my.sharepoint.com/personal/cuong_hm226018_sis_hust_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcuong%5Fhm226018%5Fsis%5Fhust%5Fedu%5Fvn%2FDocuments%2FC%C6%B0%E1%BB%9Dng%2Dsv%2Funiversity%5FHUST%2FIntro%5FTo%5FAI%2F90percentsmodel%2Ekeras&parent=%2Fpersonal%2Fcuong%5Fhm226018%5Fsis%5Fhust%5Fedu%5Fvn%2FDocuments%2FC%C6%B0%E1%BB%9Dng%2Dsv%2Funiversity%5FHUST%2FIntro%5FTo%5FAI&ga=1)
+
+- You can see all our project including report in [here](https://drive.google.com/drive/folders/1useRGB7e8VDVNtEP0j9ErW9NyTFACa30?usp=sharing)
